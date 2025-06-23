@@ -1,21 +1,20 @@
 # Trash City
 
 ## ♻️ Descripción del Proyecto
-Trash City es un videojuego educativo que promueve la conciencia ecológica a través de la recolección de residuos y la mejora del entorno urbano. Los jugadores deben limpiar la ciudad, gestionar recursos y reducir la contaminación para transformar un entorno degradado en una metáfora de sustentabilidad.
+Trash City es un videojuego estilo voxel, con temática de busca y encuentra. Los jugadores deben limpiar la ciudad de objetos no voxel invasores
 
 ## 📆 Estado del Proyecto
-> En desarrollo - Versión Pre-Alfa
+> En desarrollo - Versión Demo
 
 ## 🔍 Características Principales
 - Recolección de basura en entornos urbanos  
-- Sistema de puntos y mejoras de ciudad  
-- Indicador de contaminación en tiempo real  
+- Sistema de puntos y mejoras de ciudad   
 - Visuales amigables y didácticos
 
 ## 🚀 Tecnologías Utilizadas
 - Unity (motor de juego)  
 - C# (lógica del juego)  
-- GitHub Actions (CI/CD)
+- GitHub
 
 ## 🔧 Instalación
 ```bash
